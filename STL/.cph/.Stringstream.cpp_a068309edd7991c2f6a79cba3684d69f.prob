@@ -1,0 +1,1 @@
+{"name":"Local: Stringstream","url":"/Users/MAC/Developer/CP/GIT/STL/Stringstream.cpp","tests":[{"id":1746857474635,"input":"4\nnow do it now\nnow      do it now\nI am  good boy\nam am","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/MAC/Developer/CP/GIT/STL/Stringstream.cpp","group":"local","local":true}
